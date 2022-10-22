@@ -1,4 +1,4 @@
-TUGAS PEMROGRAMAN PERTEMUAN 5
+https://github.com/muammarM/lab2py#latihan-2-menjumlahkan-dua-bilangan-menggunakan-variabel-a-dan-bTUGAS PEMROGRAMAN PERTEMUAN 5
 
 Nama = ("saripudin") 
 
