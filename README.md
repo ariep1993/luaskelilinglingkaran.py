@@ -6,11 +6,11 @@ Nim = ("312210077")
 
 Kelas= ("TI.22.B1")
 
-Langkah awal download python
+# Langkah awal download python
  download python pada web python.org
  buka lalu centang bagian add python to PATH lalu klik install now
  install selesai, klik close
-Latihan 1 menampilkan tulisan hello
+# Latihan 1 menampilkan tulisan hello
 menampilkan tulisan "Hello"
 
 Menampilkan tulisan "Saya sedang belajar pyton"
@@ -25,7 +25,7 @@ Hasil dari tulisan diatas:
 ![output-latihan1](https://user-images.githubusercontent.com/115473865/197344375-40f43e98-a70e-4957-89ae-215117ad1497.png)
 
 
-Latihan 2 Menjumlahkan dua bilangan menggunakan variabel a dan b
+# Latihan 2 Menjumlahkan dua bilangan menggunakan variabel a dan b
 mendefinisikan variabel a dengan nilai 8
 
 mendevinisikan variabel b dengan nilai 6
@@ -34,7 +34,7 @@ mencetak nilai variabel a dan b
 
 mencetak hasil penjumlahan a+b
 
- Lakukan penulisan seperti contoh dibawah:
+# Lakukan penulisan seperti contoh dibawah:
 
 ![Sc latihan 2](https://user-images.githubusercontent.com/115473865/197344408-87782b4d-9935-4ab1-90d3-0b7e96c3b8c7.png)
 
