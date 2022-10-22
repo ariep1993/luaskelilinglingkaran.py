@@ -1,4 +1,4 @@
-#PEMROGRAMAN PERTEMUAN 5
+# PEMROGRAMAN PERTEMUAN 5
 
 Nama = ("saripudin") 
 
