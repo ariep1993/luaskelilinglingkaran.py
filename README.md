@@ -1,10 +1,10 @@
 # PEMROGRAMAN PERTEMUAN 5
 
-Nama = ("saripudin") 
+Nama = saripudin
 
-Nim = ("312210077") 
+Nim = 12210077
 
-Kelas= ("TI.22.B1")
+Kelas= BI.22.B1
 
 # Langkah awal download python
  download python pada web python.org
