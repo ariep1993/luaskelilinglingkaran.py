@@ -24,7 +24,6 @@ Hasil dari tulisan diatas:
 
 ![output-latihan1](https://user-images.githubusercontent.com/115473865/197365787-ecb4019a-f415-4030-8eb4-7efa6a701e35.png)
 
-![output-latihan2](https://user-images.githubusercontent.com/115473865/197365838-c89aa69d-697a-41ff-aca2-fbe96bf06948.png)
 
 # Latihan 2 Menjumlahkan dua bilangan menggunakan variabel a dan b
 mendefinisikan variabel a dengan nilai 8
