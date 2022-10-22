@@ -61,29 +61,4 @@ Hasil dari tulisan diatas:
 
 
 
-About
-No description, website, or topics provided.
-Resources
- Readme
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 1 fork
-Releases
-No releases published
-Packages
-No packages published
-Languages
-Python
-100.0%
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Cont
+
