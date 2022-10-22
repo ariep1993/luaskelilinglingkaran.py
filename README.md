@@ -9,7 +9,7 @@ Kelas= TI.22.B1
  download python pada web python.org
  buka lalu centang bagian add python to PATH lalu klik install now
  install selesai, klik close
-Latihan 1 menampilkan tulisan hello
+# Latihan 1 menampilkan tulisan hello
 menampilkan tulisan "Hello"
 
 Menampilkan tulisan "Saya sedang belajar pyton"
@@ -26,7 +26,7 @@ Hasil dari tulisan diatas:
 
 ![output-latihan2](https://user-images.githubusercontent.com/115473865/197365838-c89aa69d-697a-41ff-aca2-fbe96bf06948.png)
 
-Latihan 2 Menjumlahkan dua bilangan menggunakan variabel a dan b
+# Latihan 2 Menjumlahkan dua bilangan menggunakan variabel a dan b
 mendefinisikan variabel a dengan nilai 8
 
 mendevinisikan variabel b dengan nilai 6
@@ -44,7 +44,7 @@ Hasil dari tulisan diatas:
 ![output-latihan2](https://user-images.githubusercontent.com/115473865/197365838-c89aa69d-697a-41ff-aca2-fbe96bf06948.png)
 
 
-Latihan 3 Menjalankan IDLE
+# Latihan 3 Menjalankan IDLE
 Membuat file baru dengan nama latihan3.py (pastikan lokasi file pada folder lab2py pada direktori kerja anda)
 
 Menggunakan fungsi input untuk mengambil nilai variable dari keyboard
