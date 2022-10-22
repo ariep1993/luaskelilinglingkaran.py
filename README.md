@@ -2,7 +2,7 @@
 
 Nama = saripudin
 
-Nim = 12210077
+Nim = 312210077
 
 Kelas= BI.22.B1
 
