@@ -56,9 +56,4 @@ Menggunakan fungsi input untuk mengambil nilai variable dari keyboard
 
 Hasil dari tulisan diatas:
 
-
-![output-latihan3](https://user-images.githubusercontent.com/115473865/197365887-3844cfd5-9a0d-4ce2-b188-b10107d165d2.png
-
-
-
-
+![output-latihan3](https://user-images.githubusercontent.com/115473865/197365955-5ce91ba6-bf55-462d-96f1-d04ad8d403fa.png)
