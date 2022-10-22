@@ -1,7 +1,9 @@
-TUGAS PEMROGRAMAN PERTEMUAN 5
-Nama = ("M Muammar") Nim = ("312210663") Kelas= ("TI.22.B1")
+# TUGAS PEMROGRAMAN PERTEMUAN 5
+Nama = saripudin
+Nim  = 312210077 
+Kelas= TI.22.B1
 
-Langkah awal download python
+# Langkah awal download python
  download python pada web python.org
  buka lalu centang bagian add python to PATH lalu klik install now
  install selesai, klik close
