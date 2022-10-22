@@ -41,6 +41,7 @@ mencetak hasil penjumlahan a+b
 
 Hasil dari tulisan diatas:
 
+![output-latihan2](https://user-images.githubusercontent.com/115473865/197344681-5e6ed841-c3b9-4c1d-a6ad-c6873914bc72.png)
 
 
 Latihan 3 Menjalankan IDLE
