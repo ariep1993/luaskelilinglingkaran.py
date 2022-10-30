@@ -9,35 +9,12 @@ Flowchart luas dan keliling lingkaran
 
 <img width="625" alt="flow" src="https://user-images.githubusercontent.com/115473865/198858069-df66d0b8-971f-4401-bdd2-c6563329243a.png">
 
-  # import module math
-import math
+3.Lalu Masukan CODE berikut :
 
-# Variable jariJari menampung nilai input yang dimasukan yaitu berupa string
-jariJari = input('Masukan jari-jari lingkaran :')
+![41c95fb9-63eb-4c39-b271-166a60c250c6](https://user-images.githubusercontent.com/115473865/198858137-3a19d798-60cb-428c-a56b-0be38d014891.jpg)
 
-"""
+4.Ketika dijalankan Inputkan Jari jari dan Berikut Hasil nya
 
-rumus luas & keliling lingkaran
-_____________________________________
+![hasil](https://user-images.githubusercontent.com/115473865/198858151-61281e75-0546-478d-b8fd-46e5b7a4972a.png)
 
-luas     = phi * r^2
-
-keliling = 2 * phi * r
-
-_____________________________________
-
-"""
-
-# convert string to integer
-jariJari = int(jariJari)
-
-# hitung luas lingkaran
-luas = math.pi * (jariJari * jariJari)
-
-# hitung luas keliling
-keliling = 2 * math.pi * jariJari
-
-# output luas & keliling lingkaran
-# .2f => mengambil 2 angka setelah (,)
-print("Berikut Luas lingkaran =  ", format(luas, '.2f'))
-print("Berikut Keliling lingkaran = ", format(keliling, '.2f'))
+5.Selesai Begitulah cara menghitung luas dan keliling Lingkaran
