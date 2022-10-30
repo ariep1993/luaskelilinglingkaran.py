@@ -1,18 +1,13 @@
-# praktikum 3
+# Menghitung luas dan keliling lingkarn menggunakan Python
 Nama = saripudin
 
 Nim  = 312210077 
 
 Kelas= TI.22.B1
 
-Menghitung luas dan keliling lingkarn menggunakan Python
-Buat File bernama luasKelilingLingkaran.py
+Flowchart luas dan keliling lingkaran
 
-Berikut Flowchart untuk menghitung luas dan keliling lingkaran
-
-flow
-
-Lalu Masukan CODE berikut :
+<img width="625" alt="flow" src="https://user-images.githubusercontent.com/115473865/198858069-df66d0b8-971f-4401-bdd2-c6563329243a.png">
 
   # import module math
 import math
@@ -46,8 +41,3 @@ keliling = 2 * math.pi * jariJari
 # .2f => mengambil 2 angka setelah (,)
 print("Berikut Luas lingkaran =  ", format(luas, '.2f'))
 print("Berikut Keliling lingkaran = ", format(keliling, '.2f'))
-Ketika dijalankan Inputkan Jari jari dan Berikut Hasil nya
-
-Hasil
-
-Selesai Begitulah cara menghitung luas dan keliling Lingkaran
