@@ -5,29 +5,49 @@ Nim  = 312210077
 
 Kelas= TI.22.B1
 
-Menghitung luas dan keliling lingkaran
-Flowchart luas dan keliling lingkaran
+Menghitung luas dan keliling lingkarn menggunakan Python
+Buat File bernama luasKelilingLingkaran.py
 
-<img width="625" alt="flow" src="https://user-images.githubusercontent.com/115473865/198857913-a1c8cf53-b0c8-43a9-a736-b319e22025a1.png">
+Berikut Flowchart untuk menghitung luas dan keliling lingkaran
 
-Kode menghitung luas dan keliling lingkaran menggunakan python
+flow
 
-![luas-keliling lingkaran](https://user-images.githubusercontent.com/115473865/198857941-ec9c2618-536b-4983-b1eb-556c76216efc.jpg)
+Lalu Masukan CODE berikut :
 
-masukan nilai jari-jari sesuai keinginan. saya contoh pakai nilai 4 lalu tekan enter.
+  # import module math
+import math
 
-![hasil](https://user-images.githubusercontent.com/115473865/198857953-bcc99b51-f978-4011-bdc5-5b86e9d4720a.png)
+# Variable jariJari menampung nilai input yang dimasukan yaitu berupa string
+jariJari = input('Masukan jari-jari lingkaran :')
 
-Hasil kode penghitungan luas dan keliling lingkaran diatas.
+"""
 
-image
+rumus luas & keliling lingkaran
+_____________________________________
 
-program diatas saya mengimport modul math yang sudah disediakan oleh Python. Fungsinya supaya saya dapat menyertakan nilai phi yang sudah tersedia dalam modul tersebut dengan perintah math.pi jika kita coba mencetak fungsi tersebut maka akan menghasilkan nilai 3.14
+luas     = phi * r^2
 
-image
+keliling = 2 * phi * r
 
-output pi
+_____________________________________
 
-image
+"""
 
-Selanjutnya kita memerlukan nilaijari-jari(r) yang nanti akan dimasukan oleh pengguna pada layar console. Kita menggunakan fungsi input() yang nilainya di konversi ke type data float(bilangan rill).Ingat bahwa fungsi input() akan menganggap semua nilai inputan bertipe string, sehingga kita perlu melakukan konversi ke type yang diinginkan. Ketika kita sudah menemukan nilai phi dan jari selanjutnya kita bisa menghitung luas dan keliling lingkaran sesuai rumusnya masing-masing.
+# convert string to integer
+jariJari = int(jariJari)
+
+# hitung luas lingkaran
+luas = math.pi * (jariJari * jariJari)
+
+# hitung luas keliling
+keliling = 2 * math.pi * jariJari
+
+# output luas & keliling lingkaran
+# .2f => mengambil 2 angka setelah (,)
+print("Berikut Luas lingkaran =  ", format(luas, '.2f'))
+print("Berikut Keliling lingkaran = ", format(keliling, '.2f'))
+Ketika dijalankan Inputkan Jari jari dan Berikut Hasil nya
+
+Hasil
+
+Selesai Begitulah cara menghitung luas dan keliling Lingkaran
