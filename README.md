@@ -5,7 +5,7 @@ Nim  = 312210077
 
 Kelas= TI.22.B1
 
-# Flowchart luas dan keliling lingkaran
+Flowchart luas dan keliling lingkaran
 
 <img width="625" alt="flow" src="https://user-images.githubusercontent.com/115473865/198858069-df66d0b8-971f-4401-bdd2-c6563329243a.png">
 
